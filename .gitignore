@@ -1,4 +1,5 @@
 *build*/
+.DS_Store
 cscope.in.out
 cscope.out
 cscope.po.out
@@ -51,5 +52,6 @@ subprojects/orc
 subprojects/libsoup
 subprojects/FFmpeg
 subprojects/x264
+subprojects/vmaf
 prefix/
 pygobject

@@ -1,5 +1,7 @@
 [wrap-git]
 directory=gst-plugins-bad
-url=https://gitlab.freedesktop.org/gstreamer/gst-plugins-bad.git
-push-url=git@gitlab.freedesktop.org:gstreamer/gst-plugins-bad.git
+url=https://vg-code.gml-team.ru/GStreamer/gst-plugins-bad.git
+push-url=https://gitlab+deploy-token-20:ZZvY2mj_DHvgyRbG1vtk@vg-code.gml-team.ru/GStreamer/gst-plugins-bad.git
 revision=master
+
+
