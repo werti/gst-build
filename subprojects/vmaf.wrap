@@ -1,4 +1,0 @@
-[wrap-git]
-directory=vmaf
-url=https://github.com/Netflix/vmaf.git
-revision=v1.3.14
