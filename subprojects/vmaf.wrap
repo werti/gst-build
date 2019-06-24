@@ -1,0 +1,4 @@
+[wrap-git]
+directory=vmaf
+url=https://github.com/werti/vmaf.git
+revision=v1.3.14-gstreamer
